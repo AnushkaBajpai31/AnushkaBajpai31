@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnushkaBajpai31
-- 👀 I’m interested in Coding
-- 🌱 I’m currently practicing Competitive Programming
+- 👀 I’m a Full Stack Developer
+- 🌱 In my free time I like to read and learn new things.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Email me at anushkabajpai31@gmail.com
 
