@@ -80,9 +80,3 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 💡 **Open to opportunities in:** Software Engineering, AI/ML Engineering, Backend Development, Game Development
 
 🎓 **Education:** MS in Computer Science (Georgia Tech, 4.0 GPA) • BTech in Computer Science (RTU)
-
----
-
-💡 **Open to opportunities in:** Software Engineering, AI/ML Engineering, Backend Development, Game Development
-
-🎓 **Education:** MS in Computer Science (Georgia Tech, 4.0 GPA) • BTech in Computer Science (RTU)
