@@ -20,7 +20,7 @@ Mobile casino game with 1M+ DAU featuring themed slot machines and social gamepl
 
 ### Willy Wonka Slots Casino | Zynga Inc.
 Licensed slot game with immersive Wonka-themed features and real-time multiplayer tournaments  
-[🎬 Watch Gameplay](your-youtube-link-here) | [📱 Download on App Store](app-store-link) | [📱 Download on Google Play](play-store-link)
+[🎬 Watch Gameplay](https://www.youtube.com/watch?v=HX4q4SEq_Pc) | [📱 Download on App Store](https://apps.apple.com/us/app/willy-wonka-slots-vegas-casino/id1074470421) | [📱 Download on Google Play](https://play.google.com/store/apps/details?id=com.zynga.wonka&hl=en_US)
 
 ---
 
