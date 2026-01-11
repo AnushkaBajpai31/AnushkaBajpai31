@@ -9,7 +9,7 @@ Currently pursuing my Master's in Computer Science at Georgia Tech (4.0 GPA) whi
 - 🎮 Former Senior Software Engineer at **Zynga**, where I built mobile games supporting **1M+ DAU**
 - 📊 Former Senior Software Engineer at **ZS Associates** where I built big data analytics products serving **50K+ users**
 - 🤖 Passionate about **AI, ML, Gaming, Full Stack Development**
-- 🎓 Specializing in AI, NLP, and Knowledge-Based AI at Georgia Tech
+- 🎓 Specializing in AI, ML, NLP, and Knowledge-Based AI at Georgia Tech
 - 💡 Strong focus on scalable architecture, distributed systems, and cloud computing
 
 ## 🎮 Game Portfolio
