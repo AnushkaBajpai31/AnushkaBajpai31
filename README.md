@@ -69,7 +69,7 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 > **Note:** Academic project code is private due to Georgia Tech's Office of Student Integrity policies. I'm happy to discuss the technical implementation, architecture decisions, and demonstrate functionality during interviews. Please reach out if you'd like to request access for recruiting purposes.
 
 ## 📚 Currently Learning
-- Advanced AI and Natural Language Processing at Georgia Tech
+- Advanced Artificial Intelligence, Machine Learning and Natural Language Processing at Georgia Tech
 - Knowledge-Based AI and Game AI
 - Database Systems and Implementation
 
