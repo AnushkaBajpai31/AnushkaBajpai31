@@ -59,11 +59,11 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 **Tech:** Python, OpenCV, NumPy
 
 ### 📊 Hybrid Vector & Metadata Search Engine
-•⁠  ⁠Architected and benchmarked a hybrid search system to solve the "selective filtering" problem in vector databases, comparing Pre-filtering, Post-filtering, and Metadata-aware Inverted File (IVF) structures.
-•⁠  ⁠Implemented a Custom Metadata IVF Index that routed queries to relevant partitions, achieving a ~77x speedup (0.23ms vs. 17.9ms) over standard Post-filtering for highly selective queries (0.4% selectivity).
-•⁠  ⁠Optimized query execution using Bitmap-based filtering, which proved most efficient for "Very Loose" selectivity (100% match), outperforming partition-based routing by approximately 35%.
-•⁠  ⁠Conducted rigorous performance analysis across three selectivity regimes—Very Selective (0.4%), Loose (17.7%), and Very Loose (100%)—to identify the optimal cross-over points for hybrid search strategies.
-•⁠  ⁠Engineered baselines using IVFPQ and IVF-Flat indices on a 100,000-row dataset of 768-dimensional embeddings, analyzing the trade-offs between brute-force pre-filtering and ANN-based post-filtering.
+- ⁠Architected and benchmarked a hybrid search system to solve the "selective filtering" problem in vector databases, comparing Pre-filtering, Post-filtering, and Metadata-aware Inverted File (IVF) structures.
+- Implemented a Custom Metadata IVF Index that routed queries to relevant partitions, achieving a ~77x speedup (0.23ms vs. 17.9ms) over standard Post-filtering for highly selective queries (0.4% selectivity).
+- ⁠Optimized query execution using Bitmap-based filtering, which proved most efficient for "Very Loose" selectivity (100% match), outperforming partition-based routing by approximately 35%.
+- ⁠Conducted rigorous performance analysis across three selectivity regimes—Very Selective (0.4%), Loose (17.7%), and Very Loose (100%)—to identify the optimal cross-over points for hybrid search strategies.
+- ⁠Engineered baselines using IVFPQ and IVF-Flat indices on a 100,000-row dataset of 768-dimensional embeddings, analyzing the trade-offs between brute-force pre-filtering and ANN-based post-filtering.
 **Tech:** Python, FAISS, NumPy, Pandas, Bitmaps, arXiv Dataset (100k records)
 
 > **Note:** Academic project code is private due to Georgia Tech's Office of Student Integrity policies. I'm happy to discuss the technical implementation, architecture decisions, and demonstrate functionality during interviews. Please reach out if you'd like to request access for recruiting purposes.
