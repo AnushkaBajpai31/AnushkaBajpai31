@@ -66,6 +66,14 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 - ⁠Engineered baselines using IVFPQ and IVF-Flat indices on a 100,000-row dataset of 768-dimensional embeddings, analyzing the trade-offs between brute-force pre-filtering and ANN-based post-filtering.
 **Tech:** Python, FAISS, NumPy, Pandas, Bitmaps, arXiv Dataset (100k records)
 
+### Prison Dodgeball — Autonomous Game AI System
+- Designed and implemented a physics-constrained ballistic interception system for autonomous agents, solving one-shot projectile trajectories against moving targets under gravity.
+- Applied iterative numerical refinement to reconcile analytical intercept solutions with real-world constraints (speed limits, animation delay, dynamic launch points).
+- Built decision heuristics combining kinematic stability analysis, navmesh path prediction, and parabolic occlusion checks to maximize hit probability while avoiding unrealistic throws.
+- Integrated projectile prediction into a finite state machine–driven agent architecture, coordinating movement, evasion, ball collection, rescues, and throw timing.
+- Balanced realism vs. accuracy tradeoffs common in production games by selectively rejecting infeasible or low-confidence actions.
+**Tech:** Unity, C#, AI, Game AI
+
 > **Note:** Academic project code is private due to Georgia Tech's Office of Student Integrity policies. I'm happy to discuss the technical implementation, architecture decisions, and demonstrate functionality during interviews. Please reach out if you'd like to request access for recruiting purposes.
 
 ## 📚 Currently Learning
