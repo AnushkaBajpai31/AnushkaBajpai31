@@ -25,6 +25,7 @@
 **Frameworks:** FastAPI • Flask • gRPC  
 **AI/ML:** Stable Diffusion • HuggingFace • OpenCV • Pandas • NumPy  
 **Architecture:** Microservices • RESTful APIs • Distributed Systems • Event-Driven Design
+
 ---
 
 ## 🎯 Featured Projects
