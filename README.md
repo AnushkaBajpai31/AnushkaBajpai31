@@ -1,62 +1,41 @@
 # Hi there, I'm Anushka 👋
 
-**Senior Software Engineer** | **MS in Computer Science @ Georgia Tech** | **AI/ML Enthusiast**
+**Senior Software Engineer** | Backend • Full Stack • Data Infrastructure | **MS CS @ Georgia Tech** | **AI/ML Enthusiast**
 
-Currently pursuing my Master's in Computer Science at Georgia Tech (4.0 GPA) while leveraging 8+ years of experience building scalable systems, mobile games, and AI-powered solutions.
-
-## 🚀 About Me
-
-- 🎮 Former Senior Software Engineer at **Zynga**, where I built mobile games supporting **1M+ DAU**
-- 📊 Former Senior Software Engineer at **ZS Associates** where I built big data analytics products serving **50K+ users**
-- 🤖 Passionate about **AI, ML, Gaming, Full Stack Development**
-- 🎓 Specializing in AI, ML, NLP, and Knowledge-Based AI at Georgia Tech
-- 💡 Strong focus on scalable architecture, distributed systems, and cloud computing
-
-## 🎮 Game Portfolio
-
-### Game of Thrones Slots Casino | Zynga Inc.
-Mobile casino game with 1M+ DAU featuring themed slot machines and social gameplay  
-[🎬 Watch Gameplay](https://www.youtube.com/watch?v=1EafXuLbCyk) | [📱 Download on App Store](https://apps.apple.com/us/app/game-of-thrones-slots-casino/id1369317521) | [📱 Download on Google Play](https://play.google.com/store/apps/details?id=com.zynga.gotslots&hl=en_US)
-
-### Willy Wonka Slots Casino | Zynga Inc.
-Licensed slot game with immersive Wonka-themed features and real-time multiplayer tournaments  
-[🎬 Watch Gameplay](https://www.youtube.com/watch?v=HX4q4SEq_Pc) | [📱 Download on App Store](https://apps.apple.com/us/app/willy-wonka-slots-vegas-casino/id1074470421) | [📱 Download on Google Play](https://play.google.com/store/apps/details?id=com.zynga.wonka&hl=en_US)
+8+ years building production systems at scale - backend services, data pipelines, and full stack product features. Previously at Zynga (1M+ DAU) and ZS Associates (50K+ users). Currently at Georgia Tech deepening expertise in systems, databases, and AI.
 
 ---
 
-## 💼 Professional Highlights
+## 🚀 About Me
 
-### Zynga Inc. (2022-2025)
-- Developed scalable mobile games including **Game of Thrones Slots Casino** and **Willy Wonka Slots Casino** (Unity, C#, Java) supporting 1M+ daily active users
-- Built low-latency backend services and event-orchestration systems
-- Implemented Redis-based distributed leaderboard service for real-time competitive gameplay
-- Drove 30% revenue increase through multi-store In-App Purchase service
-- Led Generative AI initiatives using Stable Diffusion and AWS Sagemaker
+- ⚙️ Former Senior Software Engineer at **Zynga** — built distributed backend systems, real-time leaderboards, event pipelines, and full stack product features supporting **1M+ DAU**
+- 📊 Former Senior Software Engineer at **ZS Associates** — architected and owned a Big Data catalog platform end to end serving **50K+ users**
+- 💡 Strong focus on **distributed systems**, **database internals**, **stream processing**, and **scalable architecture**
+- 🎓 MS in Computer Science @ Georgia Tech — Database Systems, Machine Learning, AI, NLP
 
-### ZS Associates (2017-2022)
-- Architected Big Data catalog system improving data discovery time by 60%
-- Engineered automated data migration reducing manual effort from 15 days to 3 minutes
-- Built sales planning platform automating workflows for 50K+ global sales reps
-- Reduced deployment costs by 30% through CI/CD modernization
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C# • Java • TypeScript • JavaScript • SQL  
-**Frameworks:** Unity • Flask • Angular • Node.js • Apache Spark • FastAPI  
-**Cloud & DevOps:** AWS (S3, Lambda, EC2, Sagemaker, Step Functions) • Docker • Kubernetes  
-**Databases:** PostgreSQL • MongoDB • Redis • Redshift  
+**Languages:** Python • Go • Java • TypeScript • JavaScript • C# • SQL  
+**Backend & Data:** Apache Kafka • Apache Spark • Redis • PostgreSQL • MongoDB • Redshift • Elasticsearch  
+**Frontend:** React / Next.js • Angular • Node.js  
+**Cloud:** AWS (S3, EC2, RDS, Redshift, Lambda, SageMaker, DynamoDB, CloudFormation, Step Functions)  
+**DevOps & Observability:** Docker • Kubernetes • Prometheus • Splunk • CI/CD  
+**Frameworks:** FastAPI • Flask • gRPC  
 **AI/ML:** Stable Diffusion • HuggingFace • OpenCV • Pandas • NumPy  
 **Architecture:** Microservices • RESTful APIs • Distributed Systems • Event-Driven Design
+---
 
 ## 🎯 Featured Projects
 
-### 🎮 AI-Based Connect 4 Game
-Strategic AI bot using alpha-beta pruning with iterative deepening for optimal gameplay  
-**Tech:** Python, FastAPI, Next.js, PostgreSQL, MongoDB, Redux
+### 📦 Mini Data Warehouse + Query Engine
+Columnar mini data warehouse with a custom SQL-like query engine supporting joins, aggregates, partition pruning, predicate pushdown, and vectorized execution.  
+**Tech:** Python, Go, FastAPI, SQLite, Docker
 
-### 🧩 Raven's Progressive Matrices Solver
-AI solver for non-verbal intelligence tests using pattern recognition and logical reasoning  
-**Tech:** Python, OpenCV, NumPy
+### 🌊 Real-Time Streaming Data Platform
+Distributed log-based streaming system with partitioned topics, consumer groups, at-least-once delivery semantics, offset management, and fault recovery.  
+**Tech:** Go, gRPC, RocksDB, Docker, Prometheus
 
 ### 📊 Hybrid Vector & Metadata Search Engine
 - ⁠Architected and benchmarked a hybrid search system to solve the "selective filtering" problem in vector databases, comparing Pre-filtering, Post-filtering, and Metadata-aware Inverted File (IVF) structures.
@@ -67,14 +46,13 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 
 **Tech:** Python, FAISS, NumPy, Pandas, Bitmaps, arXiv Dataset (100k records)
 
-### 🤖 Prison Dodgeball — Autonomous Game AI System
-- Designed and implemented a physics-constrained ballistic interception system for autonomous agents, solving one-shot projectile trajectories against moving targets under gravity.
-- Applied iterative numerical refinement to reconcile analytical intercept solutions with real-world constraints (speed limits, animation delay, dynamic launch points).
-- Built decision heuristics combining kinematic stability analysis, navmesh path prediction, and parabolic occlusion checks to maximize hit probability while avoiding unrealistic throws.
-- Integrated projectile prediction into a finite state machine–driven agent architecture, coordinating movement, evasion, ball collection, rescues, and throw timing.
-- Balanced realism vs. accuracy tradeoffs common in production games by selectively rejecting infeasible or low-confidence actions.
+### 🎮 AI-Based Connect 4 Game Service
+Full stack game service with RESTful APIs in FastAPI for session management and persistent game state, paired with an AI bot using alpha-beta pruning with iterative deepening.  
+**Tech:** Python, FastAPI, Next.js, PostgreSQL, MongoDB, Redux
 
-**Tech:** Unity, C#, AI, Game AI
+---
+
+## Other Projects
 
 ### 🧠 Transformer Language Model from Scratch
 
@@ -87,25 +65,47 @@ AI solver for non-verbal intelligence tests using pattern recognition and logica
 
 **Tech:** PyTorch, Transformers, RoPE, RMSNorm, SwiGLU, AdamW, CUDA, Pytest
 
+### 🤖 Prison Dodgeball — Autonomous Game AI System
+- Designed and implemented a physics-constrained ballistic interception system for autonomous agents, solving one-shot projectile trajectories against moving targets under gravity.
+- Applied iterative numerical refinement to reconcile analytical intercept solutions with real-world constraints (speed limits, animation delay, dynamic launch points).
+- Built decision heuristics combining kinematic stability analysis, navmesh path prediction, and parabolic occlusion checks to maximize hit probability while avoiding unrealistic throws.
+- Integrated projectile prediction into a finite state machine–driven agent architecture, coordinating movement, evasion, ball collection, rescues, and throw timing.
+- Balanced realism vs. accuracy tradeoffs common in production games by selectively rejecting infeasible or low-confidence actions.
+
+**Tech:** Unity, C#, AI, Game AI
+
+### 🧩 Raven's Progressive Matrices Solver
+AI solver for non-verbal intelligence tests using pattern recognition and logical reasoning  
+**Tech:** Python, OpenCV, NumPy
+
 > **Note:** Academic project code is private due to Georgia Tech's Office of Student Integrity policies. I'm happy to discuss the technical implementation, architecture decisions, and demonstrate functionality during interviews. Please reach out if you'd like to request access for recruiting purposes.
-
-## 📚 Currently Learning
-- Advanced Artificial Intelligence, Machine Learning and Natural Language Processing at Georgia Tech
-- Knowledge-Based AI and Game AI
-- Database Systems and Implementation
-
-## 🏆 Certifications
-- AWS Certified Developer Associate
-- Machine Learning by Stanford University
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/anushkabajpai31/
-- 📧 Email: anushkabajpai31@gmail.com
-- 🌐 Portfolio: COMING SOON
 
 ---
 
-💡 **Open to opportunities in:** Software Engineering, AI/ML Engineering, Backend Development, Game Development
+## 💼 Professional Highlights
 
-🎓 **Education:** MS in Computer Science (Georgia Tech, 4.0 GPA) • BTech in Computer Science (RTU)
+### Zynga Inc. (2022–2025)
+- Designed multi-tier competitive leaderboard system — local + global leaderboards, challenge lifecycle engine, Hall of Fame persistence, backed by geo-partitioned Redis across multiple regions supporting 1M+ DAU
+- Built punchcard loyalty feature end to end, reward engine, multi-platform IAP with transaction state machine, and client-facing UI flows driving 30% revenue increase
+- Operated multi-region Kafka event ingestion pipeline with DLQ, retry logic, and at-least-once delivery guarantees
+- Developed Gen AI inference pipeline on AWS SageMaker with S3-backed asset storage
+
+### ZS Associates (2017–2022)
+- Architected Big Data catalog platform from scratch — PostgreSQL schema design, read replicas, partitioning, Angular SPA frontend, JWT auth with RBAC, reducing page load from 4-6s to under 2s for 50K+ users
+- Resolved database bottlenecks across 8-12M row tables — composite indexing, N+1 fixes, pagination — reducing worst-case query latency from 8-10s to under 1.5s
+- Engineered automated data migration across PostgreSQL, S3, and Redshift with zero errors, cutting effort from 15 days to 3 minutes
+- Built testing infrastructure from 0% to 65% coverage, CI/CD pipelines cutting deployment from 2 hours to 20 minutes
+
+---
+
+## 🏆 Certifications
+- AWS Certified Developer Associate
+- Machine Learning — Stanford University
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/anushkabajpai31/)
+- 📧 anushkabajpai31@gmail.com
+
+---
+
+💡 **Open to opportunities in:** Software Engineering • Backend • Full Stack • Data Infrastructure
