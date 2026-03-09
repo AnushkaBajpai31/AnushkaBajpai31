@@ -47,6 +47,16 @@ Distributed log-based streaming system with partitioned topics, consumer groups,
 
 **Tech:** Python, FAISS, NumPy, Pandas, Bitmaps, arXiv Dataset (100k records)
 
+### 🛒 Agentic Shopping Assistant with Hybrid RAG
+- Architected an end-to-end Agentic Retrieval-Augmented Generation (RAG) system designed to assist users in discovering and purchasing products from a 2,000-item Amazon dataset.
+- Engineered a Hybrid Search Engine by integrating dense vector retrieval (FAISS) with sparse keyword matching (BM25), enabling accurate handling of both semantic queries (e.g., "casual games") and exact product matches.
+- Developed a Multi-Tool Agent using the OpenAI Agents SDK, incorporating a customized search_products tool for agentic retrieval and a purchase_product tool that interfaces with a mock transaction API.
+- Implemented Advanced Prompt Engineering with custom system instructions to enforce strict metadata-aware filtering (e.g., price constraints), achieving a 100% pass rate across a rigorous 10-case evaluation suite.
+- Optimized agent behavior through Deterministic Selection Logic, enabling the assistant to autonomously identify and prioritize products based on user-defined constraints like price, numeric ratings, and review counts.
+- Integrated Automated Evaluation workflows to score agent performance based on tool-calling accuracy, multi-step sequencing, and the ability to maintain professional boundaries for out-of-scope requests.
+ 
+Tech Stack: Python, LangChain, FAISS, BM25, OpenAI Agents SDK, Hugging Face Embeddings, Pandas, JSON.
+
 ### 🎮 AI-Based Connect 4 Game Service
 Full stack game service with RESTful APIs in FastAPI for session management and persistent game state, paired with an AI bot using alpha-beta pruning with iterative deepening.  
 **Tech:** Python, FastAPI, Next.js, PostgreSQL, MongoDB, Redux
