@@ -12,6 +12,7 @@
 - 📊 Former Senior Software Engineer at **ZS Associates** — architected and owned a Big Data catalog platform end to end serving **50K+ users**
 - 💡 Strong focus on **distributed systems**, **database internals**, **stream processing**, and **scalable architecture**
 - 🎓 MS in Computer Science @ Georgia Tech — Database Systems, Machine Learning, AI, NLP
+- Graduate Teaching Assistant @ Georgia Tech - CSE6242 Data and Visual Analytics
 
 ---
 
