@@ -73,7 +73,7 @@ Full stack game service with RESTful APIs in FastAPI for session management and 
 - Trained a ~**17M parameter model** on the **TinyStories** dataset, achieving **≤ 1.8 validation loss**, with further improvements at higher token budgets.
 - Implemented **autoregressive decoding** with temperature scaling and **top-p (nucleus) sampling** for text generation.
 - Implemented a **byte-level BPE tokenizer** with custom merge rules, encoding, and decoding.
-- Passed a comprehensive **pytest-based test suite** covering attention, normalization, transformer blocks, training, and inference.
+- Added unit and integration tests **using pytest** covering attention, normalization, transformer blocks, training, and inference.
 
 **Tech:** PyTorch, Transformers, RoPE, RMSNorm, SwiGLU, AdamW, CUDA, Pytest
 
