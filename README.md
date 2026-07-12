@@ -8,6 +8,7 @@
 
 ## 🚀 About Me
 
+- 🚀 Senior Software Engineer, Backend at **Envoy** - building future of workplace!
 - ⚙️ Former Senior Software Engineer at **Zynga** — built distributed backend systems, real-time leaderboards, event pipelines, and full stack product features supporting **1M+ DAU**
 - 📊 Former Senior Software Engineer at **ZS Associates** — architected and owned a Big Data catalog platform end to end serving **50K+ users**
 - 💡 Strong focus on **distributed systems**, **database internals**, **stream processing**, and **scalable architecture**
@@ -19,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python • Go • Java • TypeScript • JavaScript • C# • SQL  
-**Backend & Data:** Apache Kafka • Apache Spark • Redis • PostgreSQL • MongoDB • Redshift • Elasticsearch  
+**Backend & Data:** Kotlin + SpringBoot • Apache Kafka • Apache Spark • Redis • PostgreSQL • MongoDB • Redshift • Elasticsearch  
 **Frontend:** React / Next.js • Angular • Node.js  
 **Cloud:** AWS (S3, EC2, RDS, Redshift, Lambda, SageMaker, DynamoDB, CloudFormation, Step Functions)  
 **DevOps & Observability:** Docker • Kubernetes • Prometheus • Splunk • CI/CD  
